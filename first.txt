@@ -1,0 +1,29 @@
+Introduction
+
+This will be one big series were you will be given few assigment every week and you will learn How to code in C
+
+Lets Start
+
+What is Programming?//H2 with font red
+
+Programming is the writting to give commands to you computer with some orrder with the help of compiler
+
+Why we need C
+
+C may seems oudated in present time but even in modern age many basic command lines need very deep knowledge of C and it also help you to undersatnd new languages in a better and new way.
+
+What is C
+
+It is one of the first fourth level language that has been develop and that has made to make much simple to use by humans.
+C language has some basic syntax that everyone can understand and is understand  by computer much faster and easily.
+
+There are some things to know before starting Learning C language 
+// A new list to be inserted 
+
+Header file 
+A header file is a file with extension .h which contains C function declarations and macro definitions to be shared between several source files
+This is also being used to have some very important preloded  files that can be used to make code much simple.
+
+In the next we will teach about the basic syntax 
+
+//a new  bitton of next to be present
