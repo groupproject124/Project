@@ -2,7 +2,32 @@ body {height: 800px;
 
   background-image:linear-gradient(#DAE2F8,#D6A4A4);
 }
+.techfont:hover{  background: #696969;
+  display: inline-block;
+  text-align: right;
+}
+.techfont{
+  font-family: "Segoe UI",Arial,sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
 h3{color: #696969}
-#p{color: #696969}
-h2{text-align: center;
+p{color: #696969}
+h2{text-align: justify;
 color: #696969}
+
+/*new code for drop down menu*/
+ul li {display: inline-block;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li {
+  background: inherit;
+  display: block;
+}
+ul li ul li a {display:block !important;}
+ul li ul li:hover {background: green;}
