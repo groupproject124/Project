@@ -2,10 +2,7 @@ body {height: 800px;
 
   background-image:linear-gradient(#DAE2F8,#D6A4A4);
 }
-.techfont:hover{  background: #696969;
-  display: inline-block;
-  text-align: right;
-}
+
 .techfont{
   font-family: "Segoe UI",Arial,sans-serif;
   font-size: 1.5em;
@@ -30,4 +27,4 @@ ul li ul li {
   display: block;
 }
 ul li ul li a {display:block !important;}
-ul li ul li:hover {background: green;}
+ul li ul li:hover {background: #696969;}
